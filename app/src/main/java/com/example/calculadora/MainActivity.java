@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-
+//teste
     public void mensagemAlerta() {
         Toast.makeText(MainActivity.this, "Informe um número antes", Toast.LENGTH_LONG).show();
     }
